@@ -1,6 +1,7 @@
 /* -------------------------------------------------------------------------- */
 /*                                 Exercise 1                                 */
 /* -------------------------------------------------------------------------- */
+
 //* Link a variable to an html element and set variable to contain list items
 var displayElement = document.getElementById("display");
 var listItems = "";
