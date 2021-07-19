@@ -35,7 +35,11 @@ console.log(studentsList);
 for (var i = 0; i < studentsList.length; i++) {
     var currentElement = studentsList[i];
 
-    //Print the student's name:
-    console.log("Nome: " + currentElement.firstName);
+    //Print student names:
+    console.log("FirstName: " + currentElement.firstName);
+
+    //Print student surname:
+    console.log("LastName: " + currentElement.lastName);
 }
+
 
